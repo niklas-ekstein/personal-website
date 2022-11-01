@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.7e172031.css",
+    "main.js": "/personal-website/static/js/main.6765eab9.js",
+    "static/media/Marstrand2.mp4": "/personal-website/static/media/Marstrand2.cd9996d5ac802f493e1a.mp4",
+    "static/media/xamarinforms_news.png": "/personal-website/static/media/xamarinforms_news.804d614c0573f900fb25.png",
+    "static/media/GamePlay2.jpg": "/personal-website/static/media/GamePlay2.d67860c907f0dafd4a8f.jpg",
+    "static/media/NiklasEksteinResumeWebsite.pdf": "/personal-website/static/media/NiklasEksteinResumeWebsite.8c92c2dd76f7d73ed236.pdf",
+    "static/media/portfolio6.jpg": "/personal-website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/react-core.png": "/personal-website/static/media/react-core.e9a88ed3683d39e6e9c2.png",
+    "static/media/chat_random4.jpeg": "/personal-website/static/media/chat_random4.a057aee82ce1db2b4e89.jpeg",
+    "static/media/angular-img1.jpeg": "/personal-website/static/media/angular-img1.f9b69ba32f0289305624.jpeg",
+    "index.html": "/personal-website/index.html",
+    "main.7e172031.css.map": "/personal-website/static/css/main.7e172031.css.map",
+    "main.6765eab9.js.map": "/personal-website/static/js/main.6765eab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e172031.css",
+    "static/js/main.6765eab9.js"
+  ]
+}
